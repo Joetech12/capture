@@ -22,7 +22,7 @@ return(
             <button>Contact us</button>
         </div>
         <div className="image">
-            <img src={home1} alt="" />
+            <img src={home1} alt="Man with a camera" />
         </div>
     </div>
 )

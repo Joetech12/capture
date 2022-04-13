@@ -18,14 +18,14 @@ return(
                     <h2>true.</h2>
                 </div>
             </div>
-            <p>Contact us for any photography or videography ideas that you have. We have professionals with amazing skills to help you achieve it.</p>
+            <p>Contact us for any photography or video ideas that you have. We have professionals with amazing skills to help you achieve it.</p>
             <button>Contact us</button>
         </div>
         <div className="image">
             <img src={home1} alt="Man with a camera" />
         </div>
     </div>
-)
+);
 
 }
 

@@ -10,12 +10,14 @@ const GlobalStyle = createGlobalStyle`
 
 body{
     background: #1b1b1b;
+    font-family: 'Inter', sans-serif;
 
 }
 
 button{ 
     font-weight: bold;
     font-size: 1rem;
+    font-family: 'Inter', sans-serif;
     cursor: pointer;
     padding: 1rem 2rem;
     border: 2px solid #23d997;
@@ -32,10 +34,12 @@ button{
     h2{
         font-weight: lighter;
         font-size: 3rem;
+        line-height: 1;
     }
 
     h3{
         color: white;
+        line-height: 1;
     }
 
     h4{
